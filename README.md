@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     A[<a href='http://www.bing.com' title='bing'>Birthday</a>] -->|Get money| B(Go shopping)
     B --> C{Let me think}
